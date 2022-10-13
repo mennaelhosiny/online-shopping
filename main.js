@@ -1,0 +1,1 @@
+let about= document.getElementById=('about')
